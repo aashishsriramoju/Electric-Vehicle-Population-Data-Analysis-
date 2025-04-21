@@ -101,6 +101,7 @@ Open the notebook in JupyterLab or VSCode
 Install dependencies (if not already installed):
 
 bash
+#CSE
 Copy
 Edit
 pip install pandas numpy matplotlib seaborn
